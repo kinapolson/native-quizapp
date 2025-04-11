@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
-import Question from './Question';
-import Summary from './Summary';
+import Question from './components/Question/Question';
+import Summary from './components/Summary/Summary';
 
 const sampleData = [
   {
